@@ -72,9 +72,13 @@ CPUia - показатель средней загрузки CPU за проме
 6. Какие из ниже перечисленных систем относятся к push модели, а какие к pull? А может есть гибридные?
 
 Prometheus - pull
+
 TICK - push
+
 Zabbix - pull/push
+
 VictoriaMetrics - pull/push
+
 Nagios - push
 
 7. Склонируйте себе репозиторий и запустите TICK-стэк, используя технологии docker и docker-compose.
